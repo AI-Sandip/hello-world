@@ -1,2 +1,2 @@
 # hello-world
-My first practice repository
+Hi, I am a curious enthusiast always learning new skills to improve peformance of myself and my team.
